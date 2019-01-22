@@ -1,0 +1,85 @@
+import os
+import sys
+import time
+
+def drawCake():
+    print("           ~                  ~                          ")
+    time.sleep(0.1)
+    print("     *                   *                *       *      ")
+    time.sleep(0.1)
+    print("                  *               *                      ")
+    time.sleep(0.1)
+    print("  ~       *                *         ~    *              ")
+    time.sleep(0.1)
+    print("              *       ~        *              *   ~      ")
+    time.sleep(0.1)
+    print("                  )         (         )              *   ")
+    time.sleep(0.1)
+    print("    *    ~     ) (_)   (   (_)   )   (_) (  *            ")
+    time.sleep(0.1)
+    print("           *  (_) # ) (_) ) # ( (_) ( # (_)       *      ")
+    time.sleep(0.1)
+    print("              _#.-#(_)-#-(_)#(_)-#-(_)#-.#_              ")
+    time.sleep(0.1)
+    print("  *         .' #  # #  #  # # #  #  # #  # `.   ~     *  ")
+    time.sleep(0.1)
+    print("           :   #    #  #  #   #  #  #    #   :           ")
+    time.sleep(0.1)
+    print("    ~      :.       #     #   #     #       .:      *    ")
+    time.sleep(0.1)
+    print("        *  | `-.__                     __.-' | *         ")
+    time.sleep(0.1)
+    print("           |      `````'''''''''''`````      |         * ")
+    time.sleep(0.1)
+    print("     *     |         | ||  |~)|~)  /         |           ")
+    time.sleep(0.1)
+    print("   ~   *   |                                 | *         ")
+    time.sleep(0.1)
+    print("   ~   *   |                                 | *         ")
+    time.sleep(0.1)
+    print("           |      |~)||~)~|~| ||~\|\ \ /     |         * ")
+    time.sleep(0.1)
+    print("   *    _.-|      |~)||~\ | |~|| /|~\ |      |-._        ")
+    time.sleep(0.1)
+    print("      .'   '.      ~            ~           .'   `.  *   ")
+    time.sleep(0.1)
+    print("  jgs :      `-.__                     __.-'      :      ")
+    time.sleep(0.1)
+    print("       `.         `````'''''''''''`````         .'       ")
+    time.sleep(0.1)
+    print("         `-.._                             _..-'         ")
+    time.sleep(0.1)
+    print("              `````""""-----------""""`````              ")
+    time.sleep(0.1)
+
+def drawTaeBoThree():
+    drawNum = 0
+    time = 0.0
+    while drawNum < 10:
+        print("@==(^ 0^)@   @(^0 ^)==@")
+        time.sleep(0.3)
+        print("@=(^0^)=@    @=(^ 0 ^)=@")
+        time.sleep(0.3)
+        print("@(^0 ^)==@   @==(^ 0^)@")
+        time.sleep(0.3)
+        print("@=(^0^)=@    @=(^ 0 ^)=@")
+        time.sleep(0.3)
+
+def drawTaeBoOne():
+    drawNum = 0
+    time = 0.0
+    while drawNum < 10:
+        print("@==(^ 0^)@   @(^0 ^)==@")
+        time.sleep(0.1)
+        print("@=(^0^)=@    @=(^ 0 ^)=@")
+        time.sleep(0.1)
+        print("@(^0 ^)==@   @==(^ 0^)@")
+        time.sleep(0.1)
+        print("@=(^0^)=@    @=(^ 0 ^)=@")
+        time.sleep(0.1)
+
+drawCake()
+drawTaeBoThree()
+print("==========H A P P Y B I R T H D A Y==========")
+drawTaeBoOne()
+print("Anyway, happy birthday :)        --myself\n")
