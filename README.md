@@ -1,3 +1,3 @@
 # TodayInSungBirthday
 
-말 그래도 인성 생일 이에요 >< 
+말 그대로  인성 생일 이에요 >< 
