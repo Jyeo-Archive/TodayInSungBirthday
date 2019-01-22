@@ -3,8 +3,7 @@ import sys
 import time
 
 def drawCake():
-    cake = """
-           ~                  ~                         
+    cake = """           ~                  ~                         
      *                   *                *       *     
                   *               *                     
   ~       *                *         ~    *             
